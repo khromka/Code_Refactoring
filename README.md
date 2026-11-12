@@ -1,6 +1,3 @@
-# Labs of Construction of Programing source
-For lab works in university...
-
 # Читаємість та відповідність стандартам коду
 Виправлені проблеми:
 Імпорти: прибрано імпорти «зірочкою» (from math import *, from collections import *), зайві/дубльовані імпорти та кілька інструкцій в один рядок.
