@@ -1,2 +1,2 @@
-# Labs
+# Labs of Construction of Programing source
 For lab works in university...
