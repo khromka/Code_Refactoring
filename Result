@@ -1,0 +1,7 @@
+Configuration file is missing or invalid. Using defaults.
+MODE: x
+TEMP: 175
+LEN: 10
+Final sum: 175 | Sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] | Users: ['Ivan - age:30 - city: Kyiv', 'Olga - age:25 - city: Chernihiv', 'Stepan - age:41 - city: Lviv'] | CWD: C:\Users\Іван\PycharmProjects\PracticProjects | Pi: 3.14 | Config: config.ini
+
+Process finished with exit code 0
